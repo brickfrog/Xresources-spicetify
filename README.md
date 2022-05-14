@@ -10,10 +10,11 @@ cp ~/.cache/wal/colors.Xresources ~/.Xresources &
 
 ## Screenshots
 
-| | |
-| - | - |
-| wallpaper example | highlights from pywal |
-| ![wallpaper based on](screenshots/wallpaper.jpg width="200") | ![highlights in spotify](screenshots/example.png width="200") |
+### wallpaper example
+<img src="https://github.com/brickfrog/Xresources-spicetify/blob/master/screenshots/wallpaper.jpg" width=50% height=50%>
+
+## highlights from pywal
+<img src="https://github.com/brickfrog/Xresources-spicetify/blob/master/screenshots/example.png" width=50% height=50%>
 
 
 Follow colors definitions from Xresources + an accent color.
