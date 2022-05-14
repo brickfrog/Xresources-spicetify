@@ -10,7 +10,11 @@ cp ~/.cache/wal/colors.Xresources ~/.Xresources &
 
 ## Screenshots
 
-![purple highlights](screenshots/example.png)
+| | |
+| - | - |
+| dracula color scheme, accent color orange | gruvbox color scheme, accent color blue |
+| ![wallpaper based on](screenshots/wallpaper.jpg width="200") | ![highlights in spotify](screenshots/example.png width="200") |
+
 
 Follow colors definitions from Xresources + an accent color.
 
@@ -23,7 +27,7 @@ Follow colors definitions from Xresources + an accent color.
 ## Enable
 to use it :
 ```bash
-spicetify config current_theme Xresources
+spicetify config current_theme Xresources-spicetify
 spicetify apply
 ```
 
