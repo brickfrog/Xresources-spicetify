@@ -12,7 +12,7 @@ cp ~/.cache/wal/colors.Xresources ~/.Xresources &
 
 | | |
 | - | - |
-| dracula color scheme, accent color orange | gruvbox color scheme, accent color blue |
+| wallpaper example | highlights from pywal |
 | ![wallpaper based on](screenshots/wallpaper.jpg width="200") | ![highlights in spotify](screenshots/example.png width="200") |
 
 
